@@ -15,3 +15,6 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 
    ```bash
    git clone https://github.com/Keerthana-webdev/MERN-STACK.git
+
+
+# Author-Keerthana.S
