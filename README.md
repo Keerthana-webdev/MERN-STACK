@@ -9,12 +9,44 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 - **React.js**: React.js is used for building the user interface components.
 - **Node.js**: Node.js is used as the server-side runtime environment.
 
+---
+## 🛠️ Tech Stack
+- Frontend: React.js + Axios
+- Backend: Node.js + Express.js
+- Database: MongoDB Atlas
+- Tools: Mongoose, CORS, Dotenv, Nodemon
+
+---
+## 📂 Project Structure
+```bash
+Student-CRUD-MERN/
+│
+├── client/ # React Frontend
+└── service/ # Node + Express Backend
+```
+---
+## ▶️ How to Run
+
+### 1️⃣ Start Backend
+```bash
+cd service
+npm install
+npm run dev
+```
+
+### 2️⃣ Start Frontend
+```bash
+cd client
+npm install
+npm start
+```
+
 ## Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/Keerthana-webdev/MERN-STACK.git
-
+   ```
 
 # Author-Keerthana.S
