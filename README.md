@@ -22,14 +22,14 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 Student-CRUD-MERN/
 │
 ├── client/ # React Frontend
-└── service/ # Node + Express Backend
+└── server/ # Node + Express Backend
 ```
 ---
 ## ▶️ How to Run
 
 ### 1️⃣ Start Backend
 ```bash
-cd service
+cd server
 npm install
 npm run dev
 ```
@@ -41,12 +41,5 @@ npm install
 npm start
 ```
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Keerthana-webdev/MERN-STACK.git
-   ```
-
-# Author-Keerthana.S
+### Author
+#### Keerthana.S
