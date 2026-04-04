@@ -21,7 +21,7 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 
 ### Project Structure
 ```bash
-Student-CRUD-MERN/
+MERN-STACK/
 │
 ├── client/ # React Frontend
 └── server/ # Node + Express Backend
